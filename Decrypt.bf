@@ -1,8 +1,8 @@
 >
-   , Gets first Letter
+   , Get first Letter
    [
-      ---- Sub 4
-      . Prints Result
+      ---- Add 4
+      . Prints the Result
       , Gets next Letter
    ]
 <
